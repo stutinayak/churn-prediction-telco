@@ -10,8 +10,6 @@ __pycache__/
 env/
 venv/
 
-# Model files
-*.pkl
 
 # System files
 .DS_Store
