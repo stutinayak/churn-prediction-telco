@@ -1,0 +1,32 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+
+# Model files
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Other temporary files
+*.tmp
+*.bak
